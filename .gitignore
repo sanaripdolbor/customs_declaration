@@ -1,0 +1,7 @@
+venv
+database.db
+.idea
+*.log
+*.pot
+*.pyc
+__pycache__/
